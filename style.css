@@ -941,7 +941,7 @@ svg {
   width: 95%;
   }
 
-  .modal-div {
+  .modal-div, .modal-question {
   width: 95%;
   }
 }
